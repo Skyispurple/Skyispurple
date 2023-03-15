@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.9708405f.css",
-    "main.js": "/static/js/main.9b05a28e.js",
-    "static/media/Design3.jpg": "/static/media/Design3.e71baa1d8df4c769b059.jpg",
-    "static/media/Design2.jpg": "/static/media/Design2.6c069735d5d2cb8d1124.jpg",
-    "static/media/Design1.jpg": "/static/media/Design1.eb6c5a43e5f3d5d0c5b3.jpg",
-    "static/media/Logo.png": "/static/media/Logo.034f3ae64dc88e336e66.png",
-    "index.html": "/index.html",
-    "main.9708405f.css.map": "/static/css/main.9708405f.css.map",
-    "main.9b05a28e.js.map": "/static/js/main.9b05a28e.js.map"
+    "main.css": "/Skyispurple/static/css/main.9708405f.css",
+    "main.js": "/Skyispurple/static/js/main.e499ee41.js",
+    "static/media/Design3.jpg": "/Skyispurple/static/media/Design3.e71baa1d8df4c769b059.jpg",
+    "static/media/Design2.jpg": "/Skyispurple/static/media/Design2.6c069735d5d2cb8d1124.jpg",
+    "static/media/Design1.jpg": "/Skyispurple/static/media/Design1.eb6c5a43e5f3d5d0c5b3.jpg",
+    "static/media/Logo.png": "/Skyispurple/static/media/Logo.034f3ae64dc88e336e66.png",
+    "index.html": "/Skyispurple/index.html",
+    "main.9708405f.css.map": "/Skyispurple/static/css/main.9708405f.css.map",
+    "main.e499ee41.js.map": "/Skyispurple/static/js/main.e499ee41.js.map"
   },
   "entrypoints": [
     "static/css/main.9708405f.css",
-    "static/js/main.9b05a28e.js"
+    "static/js/main.e499ee41.js"
   ]
 }

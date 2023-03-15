@@ -1,0 +1,40 @@
+body{
+    padding:50px
+}
+.App-header{
+   display:flex;
+   justify-content:center;
+
+
+}
+.MainForm{
+display:flex;
+flex-Direction:column;
+gap:15px;
+width:500px;
+}
+
+.HeaderImg{
+    margin:auto;
+    width:100px;
+}
+
+.DesignSelectContainer{
+    display:flex;
+    flex-Direction:row;
+    flex-wrap:wrap;
+    justify-content:center
+}
+.Designs{
+    width:160px
+}
+.button{
+    display:flex;
+    justify-content:center;
+    margin-top:50px
+}
+.footer{
+    display:flex;
+    justify-content:center;
+    margin-top:50px
+}
